@@ -46,6 +46,8 @@ Control Layer: LED, Buzzer, LCD
 * Cloud-based logging
 * Camera or drone integration
 
+https://wokwi.com/projects/462215679410158593
+
 ## Author
 
 Aditi
